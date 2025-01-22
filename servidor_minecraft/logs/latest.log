@@ -1,135 +1,137 @@
-[20Jan2025 00:32:23.392] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20Jan2025 00:32:23.400] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[20Jan2025 00:32:24.025] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Jan2025 00:32:24.073] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Jan2025 00:32:24.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Jan2025 00:32:24.461] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Jan2025 00:32:24.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Jan2025 00:32:24.463] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Jan2025 00:32:24.679] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[20Jan2025 00:32:24.680] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/Server1/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
-[20Jan2025 00:32:24.681] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[20Jan2025 00:32:27.413] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Jan2025 00:32:27.530] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Jan2025 00:32:27.600] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 104 options available, 0 override(s) found
-[20Jan2025 00:32:27.758] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-common-refmap.json' for mysticaloaktree-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Jan2025 00:32:27.760] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-forge-refmap.json' for mysticaloaktree.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Jan2025 00:32:27.774] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Jan2025 00:32:28.579] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[20Jan2025 00:32:28.604] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[20Jan2025 00:32:29.864] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20Jan2025 00:32:32.155] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
-[20Jan2025 00:32:32.681] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[20Jan2025 00:32:32.682] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[20Jan2025 00:32:32.894] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[20Jan2025 00:32:32.894] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[20Jan2025 00:32:34.618] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zip000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[20Jan2025 00:32:35.687] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[22Jan2025 00:20:37.938] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Jan2025 00:20:37.941] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Jan2025 00:20:39.369] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Jan2025 00:20:39.442] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Jan2025 00:20:39.836] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jan2025 00:20:39.839] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jan2025 00:20:39.840] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jan2025 00:20:39.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Jan2025 00:20:40.174] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Jan2025 00:20:40.176] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/Server1/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
+[22Jan2025 00:20:40.176] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[22Jan2025 00:20:43.169] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jan2025 00:20:43.303] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Jan2025 00:20:43.380] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 104 options available, 0 override(s) found
+[22Jan2025 00:20:43.545] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-common-refmap.json' for mysticaloaktree-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jan2025 00:20:43.546] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-forge-refmap.json' for mysticaloaktree.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jan2025 00:20:43.569] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jan2025 00:20:44.449] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jan2025 00:20:44.469] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jan2025 00:20:46.551] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Jan2025 00:20:49.999] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[22Jan2025 00:20:50.762] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jan2025 00:20:50.762] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jan2025 00:20:51.101] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jan2025 00:20:51.101] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jan2025 00:20:53.432] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zip000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22Jan2025 00:20:54.966] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[20Jan2025 00:32:36.188] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[20Jan2025 00:32:36.229] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[20Jan2025 00:32:36.410] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[20Jan2025 00:32:36.411] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[20Jan2025 00:32:36.412] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[20Jan2025 00:32:36.413] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[20Jan2025 00:32:36.414] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[20Jan2025 00:32:36.415] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[20Jan2025 00:32:36.428] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[20Jan2025 00:32:36.431] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[20Jan2025 00:32:36.926] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Jan2025 00:32:36.927] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Jan2025 00:32:38.271] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[20Jan2025 00:32:38.279] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[20Jan2025 00:32:38.279] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[20Jan2025 00:32:38.283] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[20Jan2025 00:32:38.675] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[20Jan2025 00:32:41.642] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
-[20Jan2025 00:32:43.506] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[20Jan2025 00:32:43.808] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[20Jan2025 00:32:43.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[20Jan2025 00:32:43.854] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[20Jan2025 00:32:44.187] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[20Jan2025 00:32:44.188] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[20Jan2025 00:32:44.189] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[20Jan2025 00:32:44.189] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[20Jan2025 00:32:44.299] [main/INFO] [Moonlight/]: Initialized color sets in 60ms
-[20Jan2025 00:32:44.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.4.2-neoforge Target: 1.20.1-1.5.1-neoforge
-[20Jan2025 00:32:44.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[20Jan2025 00:32:44.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[20Jan2025 00:32:44.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[20Jan2025 00:32:44.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.12 Target: 9.1.16
-[20Jan2025 00:32:44.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Jan2025 00:32:45.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[20Jan2025 00:32:45.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[20Jan2025 00:32:45.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[20Jan2025 00:32:45.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[20Jan2025 00:32:45.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.51 Target: null
-[20Jan2025 00:32:45.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[20Jan2025 00:32:45.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
-[20Jan2025 00:32:45.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[20Jan2025 00:32:45.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.5 Target: 8.9.0
-[20Jan2025 00:32:45.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[20Jan2025 00:32:45.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
-[20Jan2025 00:32:45.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[20Jan2025 00:32:45.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[20Jan2025 00:32:48.385] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Jan2025 00:32:51.402] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[20Jan2025 00:32:51.402] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[20Jan2025 00:32:53.721] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[20Jan2025 00:32:53.969] [Worker-Main-4/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.5.jar
-[20Jan2025 00:32:54.934] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[20Jan2025 00:32:55.053] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[20Jan2025 00:32:55.235] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[20Jan2025 00:32:55.406] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[20Jan2025 00:32:55.406] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[20Jan2025 00:32:55.429] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[20Jan2025 00:32:55.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[20Jan2025 00:32:55.449] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[20Jan2025 00:32:55.468] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[20Jan2025 00:32:55.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[20Jan2025 00:32:55.499] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[20Jan2025 00:32:55.499] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[20Jan2025 00:32:55.507] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[20Jan2025 00:32:55.507] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[20Jan2025 00:32:55.510] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[20Jan2025 00:32:55.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[20Jan2025 00:32:55.513] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[20Jan2025 00:32:55.513] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[20Jan2025 00:32:55.533] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[20Jan2025 00:32:55.534] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[20Jan2025 00:32:55.534] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[20Jan2025 00:32:55.534] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[20Jan2025 00:32:55.545] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[20Jan2025 00:32:55.545] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[20Jan2025 00:32:55.546] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[20Jan2025 00:32:55.552] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[20Jan2025 00:32:55.552] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[20Jan2025 00:32:55.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[20Jan2025 00:32:55.568] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[20Jan2025 00:32:55.568] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[20Jan2025 00:32:55.569] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[20Jan2025 00:32:55.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[20Jan2025 00:32:55.574] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[20Jan2025 00:32:55.582] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[20Jan2025 00:32:55.582] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[20Jan2025 00:32:55.594] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[20Jan2025 00:32:55.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[20Jan2025 00:32:55.596] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[20Jan2025 00:32:55.597] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[20Jan2025 00:32:55.621] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[20Jan2025 00:32:55.621] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[20Jan2025 00:32:55.625] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[20Jan2025 00:32:55.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[20Jan2025 00:32:55.631] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[20Jan2025 00:32:55.634] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[20Jan2025 00:32:55.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[20Jan2025 00:32:55.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[20Jan2025 00:32:55.637] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[20Jan2025 00:32:55.644] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[20Jan2025 00:32:55.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[20Jan2025 00:32:55.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[20Jan2025 00:32:55.653] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
-[20Jan2025 00:32:55.654] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[22Jan2025 00:20:55.786] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[22Jan2025 00:20:55.842] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[22Jan2025 00:20:56.049] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Jan2025 00:20:56.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[22Jan2025 00:20:56.054] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[22Jan2025 00:20:56.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[22Jan2025 00:20:56.057] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[22Jan2025 00:20:56.058] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[22Jan2025 00:20:56.059] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[22Jan2025 00:20:56.061] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[22Jan2025 00:20:56.561] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Jan2025 00:20:56.562] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Jan2025 00:20:58.354] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[22Jan2025 00:20:58.358] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[22Jan2025 00:20:58.358] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[22Jan2025 00:20:58.362] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[22Jan2025 00:20:58.670] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[22Jan2025 00:21:01.936] [main/INFO] [Moonlight/]: Initialized block sets in 23ms
+[22Jan2025 00:21:04.464] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[22Jan2025 00:21:05.117] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[22Jan2025 00:21:05.162] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[22Jan2025 00:21:05.315] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[22Jan2025 00:21:05.315] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[22Jan2025 00:21:05.316] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[22Jan2025 00:21:05.316] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[22Jan2025 00:21:05.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[22Jan2025 00:21:05.424] [main/INFO] [Moonlight/]: Initialized color sets in 65ms
+[22Jan2025 00:21:05.632] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22Jan2025 00:21:05.642] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22Jan2025 00:21:05.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.4.2-neoforge Target: 1.20.1-1.5.1-neoforge
+[22Jan2025 00:21:05.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[22Jan2025 00:21:06.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[22Jan2025 00:21:06.261] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22Jan2025 00:21:06.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.12 Target: 9.1.16
+[22Jan2025 00:21:06.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jan2025 00:21:06.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[22Jan2025 00:21:06.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[22Jan2025 00:21:06.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[22Jan2025 00:21:06.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[22Jan2025 00:21:06.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.51 Target: null
+[22Jan2025 00:21:06.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[22Jan2025 00:21:06.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[22Jan2025 00:21:06.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[22Jan2025 00:21:06.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.5 Target: 8.9.0
+[22Jan2025 00:21:06.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[22Jan2025 00:21:06.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[22Jan2025 00:21:06.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22Jan2025 00:21:07.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[22Jan2025 00:21:10.980] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jan2025 00:21:15.440] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[22Jan2025 00:21:15.441] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[22Jan2025 00:21:19.394] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[22Jan2025 00:21:19.871] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.5.jar
+[22Jan2025 00:21:21.140] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[22Jan2025 00:21:21.283] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[22Jan2025 00:21:21.577] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[22Jan2025 00:21:21.847] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22Jan2025 00:21:21.847] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[22Jan2025 00:21:21.879] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22Jan2025 00:21:21.880] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[22Jan2025 00:21:21.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[22Jan2025 00:21:21.920] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22Jan2025 00:21:21.923] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[22Jan2025 00:21:21.974] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[22Jan2025 00:21:21.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[22Jan2025 00:21:21.999] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[22Jan2025 00:21:21.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[22Jan2025 00:21:22.011] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22Jan2025 00:21:22.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[22Jan2025 00:21:22.029] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22Jan2025 00:21:22.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[22Jan2025 00:21:22.081] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22Jan2025 00:21:22.081] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[22Jan2025 00:21:22.081] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22Jan2025 00:21:22.082] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[22Jan2025 00:21:22.114] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[22Jan2025 00:21:22.114] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[22Jan2025 00:21:22.116] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[22Jan2025 00:21:22.133] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[22Jan2025 00:21:22.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[22Jan2025 00:21:22.140] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[22Jan2025 00:21:22.182] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22Jan2025 00:21:22.182] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[22Jan2025 00:21:22.185] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22Jan2025 00:21:22.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[22Jan2025 00:21:22.200] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[22Jan2025 00:21:22.220] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[22Jan2025 00:21:22.221] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[22Jan2025 00:21:22.243] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[22Jan2025 00:21:22.243] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[22Jan2025 00:21:22.246] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[22Jan2025 00:21:22.246] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[22Jan2025 00:21:22.288] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22Jan2025 00:21:22.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[22Jan2025 00:21:22.298] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22Jan2025 00:21:22.298] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[22Jan2025 00:21:22.314] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[22Jan2025 00:21:22.318] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[22Jan2025 00:21:22.319] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[22Jan2025 00:21:22.319] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[22Jan2025 00:21:22.328] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[22Jan2025 00:21:22.346] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22Jan2025 00:21:22.347] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[22Jan2025 00:21:22.359] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[22Jan2025 00:21:22.380] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[22Jan2025 00:21:22.382] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -145,353 +147,582 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[20Jan2025 00:32:55.850] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3948 advancements
-[20Jan2025 00:32:55.859] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[20Jan2025 00:32:55.865] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[20Jan2025 00:32:55.881] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
-[20Jan2025 00:32:55.890] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
-[20Jan2025 00:32:55.968] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[20Jan2025 00:32:58.629] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.579226ms
-[20Jan2025 00:32:58.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Jan2025 00:32:58.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Jan2025 00:32:58.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Jan2025 00:32:58.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Jan2025 00:32:59.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Jan2025 00:32:59.174] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Jan2025 00:32:59.251] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Jan2025 00:32:59.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Jan2025 00:32:59.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Jan2025 00:32:59.252] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Jan2025 00:32:59.531] [Server thread/INFO] [Framework/]: Loading server configs...
-[20Jan2025 00:32:59.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Jan2025 00:33:06.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Jan2025 00:33:10.330] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.331] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.332] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.333] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.333] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.334] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.335] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.336] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Jan2025 00:33:10.840] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[20Jan2025 00:33:11.333] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[20Jan2025 00:33:11.741] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4909 ms
-[20Jan2025 00:33:11.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.479s)! For help, type "help"
-[20Jan2025 00:33:11.827] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Jan2025 00:33:11.834] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[20Jan2025 00:33:11.835] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[20Jan2025 00:33:31.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.43.255.18:37117] logged in with entity id 1147 at (4.2744775097789125, 93.0, -4.282125534881543)
-[20Jan2025 00:33:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
-[20Jan2025 00:34:33.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Spooky Scary Skeleton]
-[20Jan2025 00:34:39.811] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [nitrogen_internals:main,aether:main] rejected their client side version number
-[20Jan2025 00:34:39.811] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[20Jan2025 00:34:39.858] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@de9680d[id=<null>,name=hoaku,properties={},legacy=false] (/127.102.39.196:49981) lost connection: Connection closed - mismatched mod channel list
-[20Jan2025 00:37:07.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Set the time to 1000]
-[20Jan2025 00:37:09.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rumo_fr3[/127.52.168.170:53811] logged in with entity id 1751 at (-2.5, 81.0, 1.5)
-[20Jan2025 00:37:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 joined the game
-[20Jan2025 00:37:09.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Ice and Fire]
-[20Jan2025 00:37:09.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Orcz Challenges]
-[20Jan2025 00:38:14.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=81, z=-6}
-[20Jan2025 00:38:20.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=85, z=-2}
-[20Jan2025 00:38:20.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=85, z=-2}
-[20Jan2025 00:38:20.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=82, z=-2}
-[20Jan2025 00:38:41.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=0, y=81, z=-7}
-[20Jan2025 00:38:42.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=2, y=82, z=-8}
-[20Jan2025 00:38:42.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=2, y=82, z=-8}
-[20Jan2025 00:38:42.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=2, y=82, z=-8}
-[20Jan2025 00:38:44.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=4, y=83, z=-3}
-[20Jan2025 00:38:44.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=4, y=83, z=-3}
-[20Jan2025 00:38:44.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-24, y=75, z=-35} BlockPos{x=4, y=83, z=-3}
-[20Jan2025 00:39:33.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=79, z=-22} BlockPos{x=-5, y=81, z=-14}
-[20Jan2025 00:39:43.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=79, z=-22} BlockPos{x=7, y=81, z=-15}
-[20Jan2025 00:39:43.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=79, z=-22} BlockPos{x=7, y=82, z=-16}
-[20Jan2025 00:39:44.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=79, z=-22} BlockPos{x=10, y=81, z=-15}
-[20Jan2025 00:39:52.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=3, y=81, z=-14}
-[20Jan2025 00:39:53.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=3, y=81, z=-14}
-[20Jan2025 00:39:58.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=90, z=-10}
-[20Jan2025 00:39:59.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=89, z=-10}
-[20Jan2025 00:40:22.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=5, y=92, z=-5}
-[20Jan2025 00:40:31.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=6, y=92, z=-11}
-[20Jan2025 00:40:31.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=5, y=92, z=-12}
-[20Jan2025 00:40:32.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=90, z=-13}
-[20Jan2025 00:40:32.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=5, y=92, z=-12}
-[20Jan2025 00:40:35.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=92, z=-10}
-[20Jan2025 00:40:35.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=91, z=-10}
-[20Jan2025 00:40:35.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=6, y=90, z=-9}
-[20Jan2025 00:40:36.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=6, y=90, z=-9}
-[20Jan2025 00:40:36.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=6, y=91, z=-8}
-[20Jan2025 00:40:36.309] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 00:40:36.315] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 00:40:36.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=91, z=-8}
-[20Jan2025 00:40:36.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=90, z=-10}
-[20Jan2025 00:40:37.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=89, z=-11}
-[20Jan2025 00:40:37.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=90, z=-7}
-[20Jan2025 00:40:42.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=7, y=90, z=-9}
-[20Jan2025 00:40:45.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=10, y=89, z=-9}
-[20Jan2025 00:40:45.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=9, y=89, z=-9}
-[20Jan2025 00:40:45.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=10, y=89, z=-8}
-[20Jan2025 00:40:51.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=81, z=-6}
-[20Jan2025 00:40:52.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=9, y=82, z=-7}
-[20Jan2025 00:40:52.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=9, y=82, z=-7}
-[20Jan2025 00:40:52.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=81, z=-7}
-[20Jan2025 00:40:52.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=81, z=-8}
-[20Jan2025 00:40:52.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=9, y=81, z=-9}
-[20Jan2025 00:40:53.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=81, z=-11}
-[20Jan2025 00:40:53.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Rumo_fr3
-[20Jan2025 00:40:53.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Your First Grave]
-[20Jan2025 00:40:53.541] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 00:40:53.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=81, z=-17} BlockPos{x=8, y=81, z=-10}
-[20Jan2025 00:40:55.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Spooky Scary Skeleton]
-[20Jan2025 00:40:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Knowledge of Death]
-[20Jan2025 00:40:55.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Funeral Theft]
-[20Jan2025 00:41:00.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has reached the goal [Here They Come]
-[20Jan2025 00:41:11.773] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 00:41:11.774] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 00:41:25.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Thecno662
-[20Jan2025 00:41:25.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Your First Grave]
-[20Jan2025 00:41:25.203] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 00:41:26.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Knowledge of Death]
-[20Jan2025 00:41:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Funeral Theft]
-[20Jan2025 00:41:53.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=1, y=75, z=16}
-[20Jan2025 00:41:54.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=0, y=75, z=16}
-[20Jan2025 00:41:54.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=1, y=75, z=16}
-[20Jan2025 00:41:54.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=0, y=75, z=16}
-[20Jan2025 00:41:54.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-1, y=76, z=14}
-[20Jan2025 00:41:54.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-1, y=77, z=11}
-[20Jan2025 00:41:55.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-1, y=78, z=8}
-[20Jan2025 00:41:55.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-1, y=79, z=7}
-[20Jan2025 00:41:56.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-2, y=79, z=6}
-[20Jan2025 00:41:56.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-1, y=80, z=6}
-[20Jan2025 00:41:56.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=-1, y=80, z=5}
-[20Jan2025 00:41:56.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=0, y=80, z=4}
-[20Jan2025 00:41:56.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=0, y=80, z=5}
-[20Jan2025 00:41:56.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=0, y=80, z=4}
-[20Jan2025 00:41:56.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=0, y=80, z=3}
-[20Jan2025 00:42:05.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=74, z=17} BlockPos{x=7, y=89, z=-10}
-[20Jan2025 00:42:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Here They Come]
-[20Jan2025 00:42:29.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hoaku[/127.102.39.196:41299] logged in with entity id 2895 at (6.5, 83.0, 3.5)
-[20Jan2025 00:42:29.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku joined the game
-[20Jan2025 00:42:30.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Ice and Fire]
-[20Jan2025 00:42:30.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Orcz Challenges]
-[20Jan2025 00:42:49.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=0, y=80, z=0}
-[20Jan2025 00:42:49.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=1, y=80, z=0}
-[20Jan2025 00:42:49.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=1, y=81, z=-3}
-[20Jan2025 00:42:49.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=0, y=81, z=-3}
-[20Jan2025 00:42:50.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=0, y=80, z=-2}
-[20Jan2025 00:42:52.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-4, y=80, z=-4}
-[20Jan2025 00:42:52.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-4, y=80, z=-3}
-[20Jan2025 00:42:52.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-4, y=80, z=-2}
-[20Jan2025 00:42:52.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-3, y=80, z=0}
-[20Jan2025 00:42:54.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=81, z=-3}
-[20Jan2025 00:42:54.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=80, z=-3}
-[20Jan2025 00:42:54.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=80, z=-3}
-[20Jan2025 00:42:54.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=80, z=-3}
-[20Jan2025 00:42:58.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-11, y=76, z=3}
-[20Jan2025 00:42:58.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-12, y=76, z=3}
-[20Jan2025 00:43:07.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-6, y=81, z=-10}
-[20Jan2025 00:43:07.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-7, y=81, z=-11}
-[20Jan2025 00:43:09.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-12, y=77, z=-12}
-[20Jan2025 00:43:09.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-11, y=77, z=-11}
-[20Jan2025 00:43:09.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=81, z=-11}
-[20Jan2025 00:43:09.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-11, y=77, z=-10}
-[20Jan2025 00:43:09.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-12, y=77, z=-9}
-[20Jan2025 00:43:11.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-11, y=77, z=-15}
-[20Jan2025 00:43:11.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-13, y=77, z=-14}
-[20Jan2025 00:43:12.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-12, y=77, z=-15}
-[20Jan2025 00:43:12.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-28, y=72, z=-28} BlockPos{x=-12, y=77, z=-14}
-[20Jan2025 00:43:15.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=77, z=-14}
-[20Jan2025 00:43:15.653] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
-[20Jan2025 00:43:15.654] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[20Jan2025 00:43:35.213] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 00:43:35.214] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 00:43:40.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=75, z=-12} BlockPos{x=-6, y=75, z=11}
-[20Jan2025 00:43:41.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=75, z=-12} BlockPos{x=-6, y=75, z=12}
-[20Jan2025 00:43:41.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=75, z=-12} BlockPos{x=-6, y=75, z=11}
-[20Jan2025 00:43:41.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=75, z=-12} BlockPos{x=-5, y=75, z=13}
-[20Jan2025 00:43:41.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=75, z=-12} BlockPos{x=-5, y=75, z=12}
-[20Jan2025 00:43:44.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by hoaku
-[20Jan2025 00:43:51.905] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
-[20Jan2025 00:43:51.906] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[20Jan2025 00:43:52.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-3}
-[20Jan2025 00:43:54.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-6}
-[20Jan2025 00:43:55.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-7}
-[20Jan2025 00:43:55.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-7}
-[20Jan2025 00:43:56.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-9}
-[20Jan2025 00:43:57.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-10}
-[20Jan2025 00:43:57.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-11}
-[20Jan2025 00:43:57.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-11}
-[20Jan2025 00:43:57.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-11}
-[20Jan2025 00:43:58.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=78, z=-11}
-[20Jan2025 00:43:59.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=79, z=-12}
-[20Jan2025 00:43:59.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Rumo_fr3
-[20Jan2025 00:44:04.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=82, z=-3}
-[20Jan2025 00:44:06.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=81, z=-4}
-[20Jan2025 00:44:06.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=81, z=-5}
-[20Jan2025 00:44:06.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=81, z=-6}
-[20Jan2025 00:44:06.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=81, z=-6}
-[20Jan2025 00:44:06.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=81, z=-6}
-[20Jan2025 00:44:07.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=82, z=-7}
-[20Jan2025 00:44:08.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=81, z=-4}
-[20Jan2025 00:44:09.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=81, z=-4}
-[20Jan2025 00:44:14.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=77, z=12}
-[20Jan2025 00:44:15.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=75, z=14}
-[20Jan2025 00:44:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has reached the goal [Here They Come]
-[20Jan2025 00:45:10.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Getting an Upgrade]
-[20Jan2025 00:46:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Crops of the Wild]
-[20Jan2025 00:46:51.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Stone Age]
-[20Jan2025 00:47:28.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Getting an Upgrade]
-[20Jan2025 00:47:35.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Stone Age]
-[20Jan2025 00:47:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Sweet Dreams]
-[20Jan2025 00:48:20.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Sweet Dreams]
-[20Jan2025 00:48:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Sweet Dreams]
-[20Jan2025 00:48:38.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 00:48:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Stone Age]
-[20Jan2025 00:49:04.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Getting an Upgrade]
-[20Jan2025 00:49:05.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Acquire Hardware]
-[20Jan2025 00:49:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> zzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 00:50:03.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Acquire Hardware]
-[20Jan2025 00:51:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Monster Hunter]
-[20Jan2025 00:51:20.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [A Strange Grave Dust]
-[20Jan2025 00:51:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Isn't It Iron Pick]
-[20Jan2025 00:51:35.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Knowledge raises the soul]
-[20Jan2025 00:53:49.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Cobweb Entanglement]
-[20Jan2025 00:54:17.287] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 00:54:17.323] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 00:54:36.411] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 00:54:36.412] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 00:55:57.561] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 00:55:57.562] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 00:56:48.225] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 00:56:48.226] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 00:56:49.575] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 00:56:49.576] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 00:57:04.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Acquire Hardware]
-[20Jan2025 00:58:08.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Where Is The Stone Pen?]
-[20Jan2025 00:58:08.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Hunt and Gather]
-[20Jan2025 00:58:53.386] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 00:58:53.387] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 00:59:33.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rumo_fr3> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 00:59:44.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 01:02:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Splintering II]
-[20Jan2025 01:02:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Splintering II]
-[20Jan2025 01:04:02.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Knowledge of Death]
-[20Jan2025 01:04:02.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Ambush]
-[20Jan2025 01:04:02.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Monster Hunter]
-[20Jan2025 01:04:52.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Ambush]
-[20Jan2025 01:04:52.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Monster Hunter]
-[20Jan2025 01:04:52.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Voluntary Exile]
-[20Jan2025 01:05:02.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Not Today, Thank You]
-[20Jan2025 01:05:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Ambush]
-[20Jan2025 01:05:27.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Knowledge raises the soul]
-[20Jan2025 01:06:24.714] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
-[20Jan2025 01:06:24.717] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[20Jan2025 01:06:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Voluntary Exile]
-[20Jan2025 01:08:28.222] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 01:08:28.225] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:08:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 withered away
-[20Jan2025 01:10:03.618] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 01:10:03.629] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:10:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Rumo_fr3
-[20Jan2025 01:10:14.412] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:14:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[20Jan2025 01:15:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Isn't It Iron Pick]
-[20Jan2025 01:17:07.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Book of Monsters]
-[20Jan2025 01:18:32.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Voluntary Exile]
-[20Jan2025 01:18:40.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Not Today, Thank You]
-[20Jan2025 01:18:45.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Not Today, Thank You]
-[20Jan2025 01:19:21.509] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:19:21.515] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:19:28.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has reached the goal [Fortuitous Militia]
-[20Jan2025 01:19:29.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11017, l='ServerLevel[world]', x=739.30, y=66.00, z=277.33] died, message: 'Butcher was slain by Vindicator'
-[20Jan2025 01:19:32.205] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11047, l='ServerLevel[world]', x=739.30, y=66.19, z=277.50] died, message: 'Villager was slain by Vindicator'
-[20Jan2025 01:19:33.259] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 01:19:33.264] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:19:40.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Vindicator
-[20Jan2025 01:19:41.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Vindicator
-[20Jan2025 01:19:45.160] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/11043, l='ServerLevel[world]', x=732.60, y=62.94, z=250.70] died, message: 'Scribe was slain by Vindicator'
-[20Jan2025 01:19:58.755] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:19:58.761] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:20:01.604] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
-[20Jan2025 01:20:01.612] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[20Jan2025 01:20:09.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Vindicator
-[20Jan2025 01:20:09.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Your First Grave]
-[20Jan2025 01:20:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Chain Death]
-[20Jan2025 01:20:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Vindicator
-[20Jan2025 01:23:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Fortuitous Militia]
-[20Jan2025 01:23:30.104] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 01:23:30.108] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:23:34.607] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:23:34.611] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:23:44.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Vex
-[20Jan2025 01:23:50.855] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
-[20Jan2025 01:23:50.859] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[20Jan2025 01:23:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Vex
-[20Jan2025 01:23:58.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Vex
-[20Jan2025 01:24:23.150] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:24:23.158] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:24:25.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has reached the goal [Fortuitous Militia]
-[20Jan2025 01:24:27.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has completed the challenge [Hero of the Village]
-[20Jan2025 01:24:27.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has completed the challenge [Hero of the Village]
-[20Jan2025 01:24:27.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has completed the challenge [Hero of the Village]
-[20Jan2025 01:24:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Ravager
-[20Jan2025 01:25:17.577] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:25:17.578] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:25:30.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by hoaku
-[20Jan2025 01:26:11.247] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:26:11.262] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:26:18.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Iron Golem
-[20Jan2025 01:26:24.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 01:26:28.098] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:26:28.111] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:26:34.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Iron Golem
-[20Jan2025 01:26:35.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 01:26:42.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 01:26:48.122] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[20Jan2025 01:26:48.123] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:26:52.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by hoaku
-[20Jan2025 01:26:52.276] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[20Jan2025 01:27:19.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thecno662> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[20Jan2025 01:30:37.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
-[20Jan2025 01:30:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[20Jan2025 01:30:37.757] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Jan2025 01:30:56.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.43.255.18:50391] logged in with entity id 19021 at (941.6372129575675, 62.3460397769463, 0.5654172537507699)
-[20Jan2025 01:30:56.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
-[20Jan2025 01:31:21.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
-[20Jan2025 01:31:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[20Jan2025 01:31:40.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.43.255.18:57447] logged in with entity id 19234 at (941.6372129575675, 62.3460397769463, 0.5654172537507699)
-[20Jan2025 01:31:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
-[20Jan2025 01:31:45.354] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[20Jan2025 01:31:45.373] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[20Jan2025 01:32:10.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Timed out
-[20Jan2025 01:32:10.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[20Jan2025 01:32:27.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Diamonds!]
-[20Jan2025 01:32:55.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.43.255.18:55425] logged in with entity id 19642 at (941.6372129575675, 62.3460397769463, 0.5654172537507699)
-[20Jan2025 01:32:55.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
-[20Jan2025 01:33:15.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
-[20Jan2025 01:33:15.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[20Jan2025 01:34:12.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.43.255.18:49827] logged in with entity id 19936 at (941.6372129575675, 62.3460397769463, 0.5654172537507699)
-[20Jan2025 01:34:12.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
-[20Jan2025 01:34:42.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Timed out
-[20Jan2025 01:34:42.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[20Jan2025 01:35:50.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Jan2025 01:35:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Jan2025 01:35:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Jan2025 01:35:50.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Jan2025 01:35:50.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Jan2025 01:35:52.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
-[20Jan2025 01:35:52.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[20Jan2025 01:35:52.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Jan2025 01:35:52.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[20Jan2025 01:35:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[20Jan2025 01:35:52.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[20Jan2025 01:35:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Jan2025 01:35:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20Jan2025 01:35:52.610] [Server thread/INFO] [Framework/]: Unloading server configs...
-[20Jan2025 01:35:52.611] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[20Jan2025 01:35:52.613] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Jan2025 00:21:22.691] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3948 advancements
+[22Jan2025 00:21:22.704] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[22Jan2025 00:21:22.709] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[22Jan2025 00:21:22.733] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[22Jan2025 00:21:22.741] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[22Jan2025 00:21:22.805] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[22Jan2025 00:21:26.062] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.441315ms
+[22Jan2025 00:21:26.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Jan2025 00:21:26.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jan2025 00:21:26.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jan2025 00:21:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jan2025 00:21:26.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jan2025 00:21:27.036] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Jan2025 00:21:27.138] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jan2025 00:21:27.138] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jan2025 00:21:27.139] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jan2025 00:21:27.139] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jan2025 00:21:27.385] [Server thread/INFO] [Framework/]: Loading server configs...
+[22Jan2025 00:21:27.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jan2025 00:21:29.216] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:33.632] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:33.931] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:34.699] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:34.921] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:35.468] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:36.079] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:36.627] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:36.723] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:37.255] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:38.018] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:38.120] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Jan2025 00:21:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jan2025 00:21:45.830] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:45.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:45.888] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:45.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.008] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.027] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.048] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.059] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.075] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.101] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:46.575] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:47.366] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:47.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:48.080] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:48.576] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Jan2025 00:21:49.076] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[22Jan2025 00:21:49.575] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 64%
+[22Jan2025 00:21:50.078] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[22Jan2025 00:21:50.094] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8520 ms
+[22Jan2025 00:21:50.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.943s)! For help, type "help"
+[22Jan2025 00:21:50.191] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Jan2025 00:21:50.200] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[22Jan2025 00:21:50.201] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22Jan2025 00:22:07.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rumo_fr3[/127.52.168.170:44691] logged in with entity id 1005 at (67.23812096998127, 73.875, -755.567881288105)
+[22Jan2025 00:22:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 joined the game
+[22Jan2025 00:22:09.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[22Jan2025 00:22:09.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.98.237.17:43919] logged in with entity id 1006 at (64.38409399262584, 73.875, -753.2086353225058)
+[22Jan2025 00:22:09.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[22Jan2025 00:22:45.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hoaku[/127.195.188.223:40787] logged in with entity id 1179 at (64.23855358971787, 73.875, -751.8501572503162)
+[22Jan2025 00:22:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku joined the game
+[22Jan2025 00:29:44.486] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 00:29:44.497] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 00:30:13.523] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 00:30:13.527] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 00:30:27.023] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 00:30:27.027] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 00:30:35.876] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 00:30:35.878] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 00:31:07.727] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 00:31:07.729] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 00:31:17.726] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 00:31:17.728] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 00:37:08.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=38, z=-1198} BlockPos{x=216, y=40, z=-1198}
+[22Jan2025 00:40:02.573] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 00:40:02.575] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 00:40:05.227] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 00:40:05.229] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 00:42:08.457] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 00:42:08.477] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 00:48:55.274] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 00:48:55.276] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 00:48:59.286] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hoaku with unique ID ac783eee-e6cc-4734-90da-eb64b0bd18c8
+[22Jan2025 00:48:59.292] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 474 Y: 32 Z: -1262
+[22Jan2025 00:48:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku tried to swim in lava
+[22Jan2025 00:48:59.327] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 00:49:26.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [The Most Useful Key]
+[22Jan2025 00:49:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has reached the goal [A Fast Comeback]
+[22Jan2025 00:59:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has completed the challenge [Hot Tourist Destinations]
+[22Jan2025 00:59:51.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has completed the challenge [Hot Tourist Destinations]
+[22Jan2025 01:00:13.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has completed the challenge [Hot Tourist Destinations]
+[22Jan2025 01:00:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Those Were the Days]
+[22Jan2025 01:00:28.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Those Were the Days]
+[22Jan2025 01:00:30.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Those Were the Days]
+[22Jan2025 01:00:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [War Pigs]
+[22Jan2025 01:01:15.970] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:01:15.981] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:01:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [War Pigs]
+[22Jan2025 01:01:50.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [It Belongs in a Museum]
+[22Jan2025 01:02:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [It Belongs in a Museum]
+[22Jan2025 01:04:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [War Pigs]
+[22Jan2025 01:05:14.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Hunt and Gather]
+[22Jan2025 01:06:55.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Who is Cutting Onions?]
+[22Jan2025 01:07:32.521] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:07:32.533] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:08:16.182] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 01:08:16.184] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 01:08:22.037] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 01:08:22.040] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 01:08:26.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku tried to swim in lava
+[22Jan2025 01:08:26.033] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 01:08:32.499] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID c5193ab0-6193-4131-9fe0-33fe9a4e6d52
+[22Jan2025 01:08:32.501] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 650 Y: 33 Z: -757
+[22Jan2025 01:08:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Piglin Brute
+[22Jan2025 01:10:04.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Hidden in the Depths]
+[22Jan2025 01:10:27.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hoaku> rumo
+[22Jan2025 01:10:31.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rumo_fr3> dime
+[22Jan2025 01:10:35.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hoaku> tienes que mantener la llave
+[22Jan2025 01:10:54.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rumo_fr3> yo no la tengo con ender
+[22Jan2025 01:11:00.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rumo_fr3> la mia es normal
+[22Jan2025 01:11:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hoaku> ok
+[22Jan2025 01:22:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Ol' Betsy]
+[22Jan2025 01:22:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Take Aim]
+[22Jan2025 01:22:23.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Ol' Betsy]
+[22Jan2025 01:22:23.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Take Aim]
+[22Jan2025 01:24:26.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [The Most Useful Key]
+[22Jan2025 01:24:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [A Fast Comeback]
+[22Jan2025 01:24:44.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Discreet Search]
+[22Jan2025 01:29:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has reached the goal [Bone Crusher]
+[22Jan2025 01:34:33.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Hostile Paradise]
+[22Jan2025 01:34:35.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Hostile Paradise]
+[22Jan2025 01:34:37.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Hostile Paradise]
+[22Jan2025 01:35:32.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Thecno662) moved too quickly! -0.17867292870488427,-320.434798847167,-0.26791986649026
+[22Jan2025 01:35:32.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Thecno662) moved too quickly! -0.3570632272170542,-320.684798847167,-0.5365218185131226
+[22Jan2025 01:35:32.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Thecno662) moved too quickly! -0.5350445393273162,-320.934798847167,-0.8062340048970924
+[22Jan2025 01:36:03.225] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:36:03.227] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:36:09.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -13.50355502717872,23.25,-6.971713296386696
+[22Jan2025 01:36:09.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -13.317108411548247,23.0,-6.87528174409718
+[22Jan2025 01:36:09.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -13.138883566535753,22.75,-6.783387253459836
+[22Jan2025 01:36:09.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -12.950795757307844,22.5,-6.685859475298344
+[22Jan2025 01:36:09.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -12.745053644900963,22.25,-6.579388676899924
+[22Jan2025 01:36:09.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -12.531961204808056,22.0,-6.468529449166624
+[22Jan2025 01:36:09.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -12.312179966328074,21.75,-6.353676750623492
+[22Jan2025 01:36:09.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -12.08843785392122,21.5,-6.2378309522250674
+[22Jan2025 01:36:09.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -11.858965413356259,21.25,-6.118440474245887
+[22Jan2025 01:36:09.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -11.62427837401708,21.0,-5.995824337755266
+[22Jan2025 01:36:09.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -11.390536261610237,20.75,-5.874728539356852
+[22Jan2025 01:36:09.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -11.15196382078301,20.5,-5.7505605612400075
+[22Jan2025 01:36:09.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -10.908995780966563,20.25,-5.623596899498807
+[22Jan2025 01:36:09.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -10.671128668559675,20.0,-5.500376101100386
+[22Jan2025 01:36:09.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -10.428766394438696,19.75,-5.374341382054752
+[22Jan2025 01:36:09.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -10.182241873619887,19.5,-5.245880293780488
+[22Jan2025 01:36:09.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -9.931716387894596,19.25,-5.115621326014548
+[22Jan2025 01:36:09.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -9.677445787385068,19.0,-4.9839325907744865
+[22Jan2025 01:36:09.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -9.41969812723977,18.75,-4.851081597375355
+[22Jan2025 01:36:09.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -9.1587863427348,18.5,-4.7171729490210055
+[22Jan2025 01:36:09.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -8.923924935721743,18.25,-4.5965337081440225
+[22Jan2025 01:36:09.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -8.969801554991022,18.75,-4.618110771266373
+[22Jan2025 01:36:09.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -8.7402591530618,18.5,-4.500082700109488
+[22Jan2025 01:36:09.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -8.50515162120405,18.25,-4.379388130855375
+[22Jan2025 01:36:09.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -8.265015595732734,18.0,-4.25619669560146
+[22Jan2025 01:36:09.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -8.020338316968378,17.75,-4.130665362716201
+[22Jan2025 01:36:09.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -7.797684827680769,17.5,-4.01573823914282
+[22Jan2025 01:36:09.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -7.568951508566897,17.25,-3.8976597717211234
+[22Jan2025 01:36:09.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -7.3538691973100185,17.0,-3.786594920112691
+[22Jan2025 01:36:09.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -7.132061977168632,16.75,-3.6719610506278
+[22Jan2025 01:36:09.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -6.90431420543041,16.5,-3.5537404371186767
+[22Jan2025 01:36:09.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -6.697919988311355,16.25,-3.445989644346895
+[22Jan2025 01:36:09.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -6.484842097176852,16.0,-3.3328943912858904
+[22Jan2025 01:36:09.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -6.266003486924774,15.75,-3.214408653726082
+[22Jan2025 01:36:09.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -6.068938670151624,15.5,-3.1094494135025172
+[22Jan2025 01:36:09.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -5.8650880124862965,15.25,-2.997720107673473
+[22Jan2025 01:36:09.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -5.655363329265413,15.0,-2.879383718667725
+[22Jan2025 01:36:09.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -5.46740776352442,14.75,-2.7777172229527025
+[22Jan2025 01:36:09.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -5.272592043350642,14.5,-2.6679097907066307
+[22Jan2025 01:36:09.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -5.071762768782719,14.25,-2.550383292232027
+[22Jan2025 01:36:09.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -4.892729927608968,14.0,-2.452221973397144
+[22Jan2025 01:36:09.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -4.706541042323124,13.75,-2.344927598284272
+[22Jan2025 01:36:09.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -4.51398214652238,13.5,-2.229139752615083
+[22Jan2025 01:36:09.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -4.343768400147951,13.25,-2.134503387982079
+[22Jan2025 01:36:09.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -4.166229855429265,13.0,-2.0296352559718116
+[22Jan2025 01:36:09.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -3.98232336240153,12.75,-1.9151024806492387
+[22Jan2025 01:36:09.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -3.792824756422192,12.5,-1.791540259219687
+[22Jan2025 01:36:09.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -3.6314351041974646,12.25,-1.6999157657251374
+[22Jan2025 01:36:09.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -3.462887159240381,12.0,-1.5966852839480055
+[22Jan2025 01:36:09.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -3.30961055738004,11.75,-1.508663227032855
+[22Jan2025 01:36:09.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -3.1486022438069767,11.5,-1.408541096016478
+[22Jan2025 01:36:09.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -2.9805580723725598,11.25,-1.297407897250622
+[22Jan2025 01:36:09.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -2.8345314705122178,11.0,-1.2131358403354966
+[22Jan2025 01:36:09.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -2.6801206571292937,10.75,-1.1164262094174546
+[22Jan2025 01:36:09.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -2.5180802110409104,10.5,-1.0083983858305885
+[22Jan2025 01:36:09.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -2.3790536091805734,10.25,-0.9277513289154626
+[22Jan2025 01:36:09.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of hoaku) moved too quickly! -2.2310127959812576,10.0,-0.8343404480924903
+[22Jan2025 01:36:38.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rumo_fr3 lost connection: Disconnected
+[22Jan2025 01:36:38.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 left the game
+[22Jan2025 01:36:47.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
+[22Jan2025 01:36:47.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
+[22Jan2025 01:36:47.275] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jan2025 01:36:48.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hoaku lost connection: Disconnected
+[22Jan2025 01:36:48.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku left the game
+[22Jan2025 01:36:52.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.98.237.17:59747] logged in with entity id 19604 at (340.9936247748178, 92.0, 138.22730045910504)
+[22Jan2025 01:36:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[22Jan2025 01:37:11.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 moved too quickly! 9.160271678750291,0.9787100410233762,4.068361339514269
+[22Jan2025 01:37:55.981] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@739fefc1[id=<null>,name=hoaku,properties={},legacy=false] (/127.195.188.223:36715) lost connection: Timed out
+[22Jan2025 01:37:57.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hoaku[/127.195.188.223:37709] logged in with entity id 19956 at (371.09405617669097, 95.0, 157.46864890690253)
+[22Jan2025 01:37:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku joined the game
+[22Jan2025 01:38:40.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rumo_fr3[/127.52.168.170:44849] logged in with entity id 20251 at (341.5968223910736, 93.16610926093821, 137.40819589309615)
+[22Jan2025 01:38:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 joined the game
+[22Jan2025 01:40:47.033] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 01:40:47.034] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 01:40:53.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was doomed to fall
+[22Jan2025 01:41:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rumo_fr3 moved too quickly! 0.8312259600452592,-20.0321459089822,0.6516458813452459
+[22Jan2025 01:45:03.699] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:45:03.701] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:45:22.603] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:45:22.604] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:49:14.132] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:49:14.133] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:49:19.194] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 48d0a9d2-ed68-4929-a7f6-0f8fa5d23e6a
+[22Jan2025 01:49:19.194] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 139 Y: 142 Z: 105
+[22Jan2025 01:49:19.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was doomed to fall
+[22Jan2025 01:49:19.197] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:50:26.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hoaku> hoaku se esta desangrando
+[22Jan2025 01:51:23.439] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 01:51:23.442] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 01:51:29.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku fell from a high place
+[22Jan2025 01:52:00.018] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 01:52:00.032] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 01:52:05.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Exotic Hardware]
+[22Jan2025 01:52:09.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has reached the goal [Chain Death]
+[22Jan2025 01:52:09.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Spider
+[22Jan2025 01:52:24.140] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 01:52:24.143] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 01:52:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Valkyrie
+[22Jan2025 01:52:37.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [The Most Useful Key]
+[22Jan2025 01:52:51.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has reached the goal [A Fast Comeback]
+[22Jan2025 01:56:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Ol' Betsy]
+[22Jan2025 01:57:47.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Legion Mason'/27588, l='ServerLevel[world]', x=96.21, y=129.44, z=99.13] died, message: 'Legion Mason hit the ground too hard'
+[22Jan2025 01:58:07.200] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 01:58:07.203] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 01:58:08.384] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 01:58:08.386] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 01:58:30.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Valkyrie
+[22Jan2025 01:58:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 16 [Ender Pearl] to Thecno662]
+[22Jan2025 01:59:08.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID b7ade3fc-4dcc-42c0-a37c-4c40b319e68f
+[22Jan2025 01:59:08.342] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 34 Y: 60 Z: 89
+[22Jan2025 01:59:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Valkyrie
+[22Jan2025 02:00:32.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Cold as Ice]
+[22Jan2025 02:01:29.068] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:01:29.071] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:02:59.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Exotic Hardware]
+[22Jan2025 02:03:48.766] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:03:48.768] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:03:55.965] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:03:55.969] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:04:59.667] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:04:59.672] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:08:55.814] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:08:55.819] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:09:15.165] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:09:15.170] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:09:27.167] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:09:27.172] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:09:29.464] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:09:29.470] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:09:33.566] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:09:33.570] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:09:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Valkyrie Queen
+[22Jan2025 02:10:18.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Valkyrie Queen
+[22Jan2025 02:10:27.227] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 49e47fd8-5563-4163-81d3-c5c978dc2f86
+[22Jan2025 02:10:27.228] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 12 Y: 60 Z: 88
+[22Jan2025 02:10:27.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Valkyrie Queen
+[22Jan2025 02:10:52.939] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:10:52.940] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:10:57.531] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:10:57.533] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:10:59.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Chain Death]
+[22Jan2025 02:10:59.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 fell from a high place
+[22Jan2025 02:11:02.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 fell from a high place
+[22Jan2025 02:11:34.539] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:11:34.541] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:11:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 fell from a high place
+[22Jan2025 02:11:59.474] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:11:59.476] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:16:21.613] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:16:21.616] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:16:23.965] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:16:23.968] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:16:39.064] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:16:39.068] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:16:49.316] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:16:49.318] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:16:49.819] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:16:49.822] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:16:53.363] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:16:53.367] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:17:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Valkyrie Queen
+[22Jan2025 02:17:13.504] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 7901c00d-f4db-4ae9-b084-f9a49d27fdd1
+[22Jan2025 02:17:13.504] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2 Y: 61 Z: 92
+[22Jan2025 02:17:13.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was struck by lightning
+[22Jan2025 02:17:49.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was struck by lightning
+[22Jan2025 02:18:25.576] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:18:25.591] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:18:35.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 hit the ground too hard
+[22Jan2025 02:18:55.047] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:18:55.048] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:19:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 fell from a high place
+[22Jan2025 02:21:41.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Void Assault Shoulder Weapon] to Thecno662]
+[22Jan2025 02:22:38.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [The More You Know!]
+[22Jan2025 02:24:06.915] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:24:06.917] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:24:30.466] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:24:30.469] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:24:43.266] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:24:43.270] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:24:46.263] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:24:46.267] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:25:08.616] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:25:08.618] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:25:41.216] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:25:41.218] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:26:11.567] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:26:11.569] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:26:13.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has reached the goal [Dethroned]
+[22Jan2025 02:26:13.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Dethroned]
+[22Jan2025 02:26:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has reached the goal [Dethroned]
+[22Jan2025 02:26:30.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Back to childhood]
+[22Jan2025 02:26:30.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Not even afraid of death]
+[22Jan2025 02:26:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has reached the goal [Earning your Wings]
+[22Jan2025 02:27:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Baby Food]
+[22Jan2025 02:28:08.519] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:28:08.521] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:28:18.717] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:28:18.719] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:29:10.967] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:29:10.969] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:29:22.870] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:29:22.873] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:29:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Rumo_fr3
+[22Jan2025 02:29:25.658] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:31:31.558] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:31:31.559] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:31:33.296] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-371, y=30, z=217}
+[22Jan2025 02:31:33.296] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-373, y=30, z=217}
+[22Jan2025 02:31:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku fell from a high place
+[22Jan2025 02:33:57.287] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:33:57.289] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:34:03.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku fell from a high place
+[22Jan2025 02:36:09.491] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:36:09.493] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:36:24.495] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:36:24.497] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:36:46.795] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:36:46.796] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:37:30.022] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:37:30.024] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:37:38.626] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 547894a7-eaa9-4898-8116-5c9735d04540
+[22Jan2025 02:37:38.626] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 363 Y: 95 Z: 160
+[22Jan2025 02:37:38.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by hoaku
+[22Jan2025 02:37:38.628] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:37:50.334] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[22Jan2025 02:37:50.336] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[22Jan2025 02:38:07.945] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:38:07.947] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:40:20.583] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[22Jan2025 02:40:20.585] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[22Jan2025 02:40:41.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rumo_fr3 lost connection: Disconnected
+[22Jan2025 02:40:41.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 left the game
+[22Jan2025 02:41:13.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hoaku lost connection: Disconnected
+[22Jan2025 02:41:13.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku left the game
+[22Jan2025 02:43:54.425] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:43:54.438] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:44:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was energized by a dragon
+[22Jan2025 02:44:24.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Ender Pearl] to Thecno662]
+[22Jan2025 02:45:00.020] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:45:00.035] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:45:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was energized by a dragon
+[22Jan2025 02:45:29.166] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:45:29.178] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:45:34.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:45:35.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was energized by a dragon
+[22Jan2025 02:45:50.566] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:45:50.580] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:45:56.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was struck with lightning by a dragon
+[22Jan2025 02:46:00.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Ender Pearl] to Thecno662]
+[22Jan2025 02:46:24.966] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:46:24.980] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:46:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Lightning Dragon
+[22Jan2025 02:46:57.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [The Desert Swimmers]
+[22Jan2025 02:47:28.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:48:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:49:03.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:49:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Spectral Arrow] to Thecno662]
+[22Jan2025 02:49:20.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:49:25.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:49:35.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:49:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:50:36.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:50:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:50:44.774] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:50:44.776] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:50:50.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was energized by a dragon
+[22Jan2025 02:50:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Ender Pearl] to Thecno662]
+[22Jan2025 02:51:30.823] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:51:30.826] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:51:33.221] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:51:33.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:51:34.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:51:36.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was struck with lightning by a dragon
+[22Jan2025 02:51:41.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Ender Pearl] to Thecno662]
+[22Jan2025 02:52:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:52:16.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow of Invisibility] to Thecno662]
+[22Jan2025 02:52:30.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:34.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:41.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow] to Thecno662]
+[22Jan2025 02:52:52.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:52.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:52.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:52.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.719] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:53.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.318] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:54.919] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:55.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.319] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.618] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:56.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.117] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.419] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.718] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:57.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:52:58.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jan2025 02:53:01.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Welcome to the land of the legion !]
+[22Jan2025 02:53:15.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Arrow of Poison] to Thecno662]
+[22Jan2025 02:53:18.130] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 02:53:18.133] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 02:53:19.338] [Worker-Main-4/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [48, 37], pos: BlockPos{x=783, y=-33, z=601}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[22Jan2025 02:53:19.338] [Worker-Main-4/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [48, 37], pos: BlockPos{x=783, y=-33, z=600}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[22Jan2025 02:53:19.339] [Worker-Main-4/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [48, 37], pos: BlockPos{x=783, y=-33, z=599}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[22Jan2025 02:53:19.340] [Worker-Main-4/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [48, 37], pos: BlockPos{x=783, y=-30, z=603}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[22Jan2025 02:53:24.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was struck with lightning by a dragon
+[22Jan2025 02:54:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Dragonslayer]
+[22Jan2025 02:54:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Glass Bottle] to Thecno662]
+[22Jan2025 02:54:33.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Glass Bottle] to Thecno662]
+[22Jan2025 02:58:27.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Wanted by the Legion !]
+[22Jan2025 03:03:16.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has completed the challenge [The most wanted !]
+[22Jan2025 03:04:14.225] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 03:04:14.229] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 03:04:20.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Veteran infantryman of the legion
+[22Jan2025 03:04:27.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Ender Pearl] to Thecno662]
+[22Jan2025 03:05:38.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [White Bed] to Thecno662]
+[22Jan2025 03:06:34.766] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 03:06:34.777] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 03:06:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Ferrous Wroughtnaut
+[22Jan2025 03:06:58.467] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 03:06:58.480] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 03:07:04.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Ferrous Wroughtnaut
+[22Jan2025 03:08:33.917] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 03:08:33.930] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 03:08:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Ferrous Wroughtnaut
+[22Jan2025 03:09:33.818] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 03:09:33.830] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 03:09:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Ferrous Wroughtnaut
+[22Jan2025 03:11:32.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has completed the challenge [Just a Flesh Wound]
+[22Jan2025 03:13:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:02.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:02.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:02.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:13:03.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Rabbit's Foot] to Thecno662]
+[22Jan2025 03:15:16.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
+[22Jan2025 03:15:16.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
+[22Jan2025 03:24:35.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.98.237.17:34831] logged in with entity id 60762 at (682.6475154428502, 62.0, 682.3629718333285)
+[22Jan2025 03:24:35.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[22Jan2025 03:25:12.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Teleported Thecno662 to 230.500000, 90.000000, 300.500000]
+[22Jan2025 03:27:48.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Dragonforge Lightning Core] to Thecno662]
+[22Jan2025 03:27:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [The Heart and the Flame]
+[22Jan2025 03:29:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Witherbone] to Thecno662]
+[22Jan2025 03:29:41.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [A Flaming Sword]
+[22Jan2025 03:30:43.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:43.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:44.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:44.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:44.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:30:45.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:31:24.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 500 experience points to Thecno662]
+[22Jan2025 03:31:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 500 experience points to Thecno662]
+[22Jan2025 03:31:41.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 500 experience points to Thecno662]
+[22Jan2025 03:31:55.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Enchanter]
+[22Jan2025 03:32:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:32:08.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:32:10.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:32:12.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Lapis Lazuli] to Thecno662]
+[22Jan2025 03:32:15.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
+[22Jan2025 03:32:15.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
+[22Jan2025 03:35:00.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.98.237.17:39779] logged in with entity id 62602 at (368.1551179506109, 96.0, 160.4828708339584)
+[22Jan2025 03:35:00.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[22Jan2025 03:36:08.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 300 experience points to Thecno662]
+[22Jan2025 03:37:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Diamond Pickaxe] to Thecno662]
+[22Jan2025 03:37:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 400 experience points to Thecno662]
+[22Jan2025 03:39:33.897] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_monstrous_located (cataclysm:soul_black_smith) took 0 ms
+[22Jan2025 03:40:10.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Teleported Thecno662 to 96.500000, 97.000000, 96.500000]
+[22Jan2025 03:42:01.120] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_monstrous_located (cataclysm:soul_black_smith) took 0 ms
+[22Jan2025 03:42:13.094] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_flame_located (cataclysm:burning_arena) took 668 ms
+[22Jan2025 03:43:08.791] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_mech_located (cataclysm:ancient_factory) took 68 ms
+[22Jan2025 03:44:12.128] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[22Jan2025 03:44:12.130] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[22Jan2025 03:44:17.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 fell from a high place
+[22Jan2025 03:45:02.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
+[22Jan2025 03:45:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
+[22Jan2025 03:45:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jan2025 03:45:22.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jan2025 03:45:22.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jan2025 03:45:22.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jan2025 03:45:22.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jan2025 03:45:22.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jan2025 03:45:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22Jan2025 03:45:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[22Jan2025 03:45:22.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[22Jan2025 03:45:22.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[22Jan2025 03:45:22.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jan2025 03:45:22.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 03:45:22.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jan2025 03:45:23.075] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jan2025 03:45:23.077] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[22Jan2025 03:45:23.080] [Server thread/INFO] [Framework/]: Finished unloading server configs
