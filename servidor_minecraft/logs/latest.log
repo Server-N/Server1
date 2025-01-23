@@ -1,665 +1,366 @@
-[23Jan2025 00:00:24.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Surge Protector]
-[23Jan2025 00:00:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Surge Protector]
-[23Jan2025 00:00:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Surge Protector]
-[23Jan2025 00:02:51.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rumo_fr3> wdw
-[23Jan2025 00:02:52.398] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[23Jan2025 00:02:52.489] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[23Jan2025 00:03:08.713] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 3d302443-525e-4132-966f-bf86eaa6d485
-[23Jan2025 00:03:08.714] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3880 Y: 72 Z: -1391
-[23Jan2025 00:03:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Frostmaw
-[23Jan2025 00:03:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has completed the challenge [Rude Awakening]
-[23Jan2025 00:05:42.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:43.966] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.148] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:44.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.463] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:45.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:46.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:47.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:48.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.668] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:49.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.093] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.169] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:50.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.661] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:51.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:52.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:53.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:54.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:55.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:56.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:57.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:58.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:05:59.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:00.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:01.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:02.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:03.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:04.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.348] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:05.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.056] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:06.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:07.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:08.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:09.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:10.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:11.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:12.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:13.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:14.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.242] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.444] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:15.942] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:16.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:17.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.348] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:18.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.449] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:19.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:20.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.349] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:21.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.150] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:22.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:23.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.766] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:24.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:25.966] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:26.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:27.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:28.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.565] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:29.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.361] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Thecno662) moved wrongly! 0.2562337142178805
-[23Jan2025 00:06:30.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:30.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:31.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:32.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:33.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.047] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:34.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.348] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:35.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.653] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:36.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.448] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:37.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:38.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.345] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:39.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.050] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.550] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:40.951] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:06:41.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[23Jan2025 00:07:18.244] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[23Jan2025 00:07:18.290] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[23Jan2025 00:09:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [My Name is Nobody]
-[23Jan2025 00:10:04.452] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[23Jan2025 00:10:04.467] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[23Jan2025 00:10:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 burned to death
-[23Jan2025 00:10:16.765] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[23Jan2025 00:10:20.250] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
-[23Jan2025 00:10:20.266] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[23Jan2025 00:10:21.902] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[23Jan2025 00:10:21.921] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[23Jan2025 00:10:30.782] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID ba9df8f2-78d9-4df9-a01a-593e145f2b83
-[23Jan2025 00:10:30.783] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3443 Y: 65 Z: -1853
-[23Jan2025 00:10:30.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was turned into KFC by a dragon
-[23Jan2025 00:10:31.364] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hoaku with unique ID 9caefad1-ce23-443f-a615-1bea0517d801
-[23Jan2025 00:10:31.364] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -3388 Y: 63 Z: -1824
-[23Jan2025 00:10:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku burned to death
-[23Jan2025 00:10:31.368] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
-[23Jan2025 00:11:02.699] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[23Jan2025 00:11:02.719] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[23Jan2025 00:11:08.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Fire Dragon
-[23Jan2025 00:16:02.223] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-184, -172], pos: BlockPos{x=-2944, y=-47, z=-2745}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
-[23Jan2025 00:16:02.223] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-184, -172], pos: BlockPos{x=-2944, y=-47, z=-2744}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
-[23Jan2025 00:16:02.223] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-184, -172], pos: BlockPos{x=-2944, y=-47, z=-2743}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
-[23Jan2025 00:16:02.224] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-184, -172], pos: BlockPos{x=-2944, y=-44, z=-2747}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
-[23Jan2025 00:16:18.400] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
-[23Jan2025 00:16:18.406] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
-[23Jan2025 00:16:24.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 burned to death
-[23Jan2025 00:17:21.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
-[23Jan2025 00:17:21.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[23Jan2025 00:17:21.379] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[23Jan2025 00:17:41.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.98.237.17:57945] logged in with entity id 26473 at (-3085.1946150386607, 91.0, -2625.7779129491596)
-[23Jan2025 00:17:41.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
-[23Jan2025 00:17:44.576] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[23Jan2025 00:17:44.578] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[23Jan2025 00:17:56.358] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
-[23Jan2025 00:17:56.359] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
-[23Jan2025 00:18:00.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
-[23Jan2025 00:18:00.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
-[23Jan2025 00:18:35.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rumo_fr3 lost connection: Disconnected
-[23Jan2025 00:18:35.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 left the game
-[23Jan2025 00:18:37.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hoaku lost connection: Disconnected
-[23Jan2025 00:18:37.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku left the game
-[23Jan2025 00:18:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[23Jan2025 00:18:37.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23Jan2025 00:18:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23Jan2025 00:18:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[23Jan2025 00:18:38.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23Jan2025 00:18:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[23Jan2025 00:18:39.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23Jan2025 00:18:39.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
-[23Jan2025 00:18:39.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23Jan2025 00:18:39.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[23Jan2025 00:18:39.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[23Jan2025 00:18:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Jan2025 00:18:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[23Jan2025 00:18:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23Jan2025 00:18:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
-[23Jan2025 00:18:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Jan2025 00:18:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[23Jan2025 00:18:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[23Jan2025 00:18:39.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23Jan2025 00:18:39.299] [Server thread/INFO] [Framework/]: Unloading server configs...
-[23Jan2025 00:18:39.301] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[23Jan2025 00:18:39.303] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[23Jan2025 00:19:27.326] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[23Jan2025 00:19:27.330] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[23Jan2025 00:19:27.961] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Jan2025 00:19:28.019] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Jan2025 00:19:28.311] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jan2025 00:19:28.313] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jan2025 00:19:28.315] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jan2025 00:19:28.317] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Jan2025 00:19:28.563] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[23Jan2025 00:19:28.565] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/Server1/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
+[23Jan2025 00:19:28.565] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[23Jan2025 00:19:31.318] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Jan2025 00:19:31.497] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[23Jan2025 00:19:31.567] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 104 options available, 0 override(s) found
+[23Jan2025 00:19:31.724] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-common-refmap.json' for mysticaloaktree-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 00:19:31.726] [main/WARN] [mixin/]: Reference map 'mysticaloaktree-forge-refmap.json' for mysticaloaktree.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 00:19:31.741] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jan2025 00:19:32.491] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jan2025 00:19:32.519] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jan2025 00:19:34.379] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23Jan2025 00:19:36.998] [main/WARN] [mixin/]: Method overwrite conflict for setBlockState in the_bumblezone-common.mixins.json:blocks.FallingBlockEntityAccessor, previously written by com.github.alexmodguy.alexscaves.mixin.FallingBlockEntityMixin. Skipping method.
+[23Jan2025 00:19:37.507] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jan2025 00:19:37.508] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jan2025 00:19:37.736] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jan2025 00:19:37.737] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jan2025 00:19:39.335] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zip000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[23Jan2025 00:19:40.544] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[23Jan2025 00:19:41.179] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[23Jan2025 00:19:41.223] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[23Jan2025 00:19:41.387] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[23Jan2025 00:19:41.389] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[23Jan2025 00:19:41.397] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[23Jan2025 00:19:41.421] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[23Jan2025 00:19:41.423] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[23Jan2025 00:19:41.424] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[23Jan2025 00:19:41.435] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[23Jan2025 00:19:41.436] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[23Jan2025 00:19:41.911] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[23Jan2025 00:19:41.911] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[23Jan2025 00:19:43.291] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[23Jan2025 00:19:43.298] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[23Jan2025 00:19:43.299] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[23Jan2025 00:19:43.305] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[23Jan2025 00:19:43.712] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[23Jan2025 00:19:46.603] [main/INFO] [Moonlight/]: Initialized block sets in 18ms
+[23Jan2025 00:19:48.589] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[23Jan2025 00:19:48.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[23Jan2025 00:19:48.937] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[23Jan2025 00:19:49.020] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[23Jan2025 00:19:49.149] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[23Jan2025 00:19:49.149] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[23Jan2025 00:19:49.149] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[23Jan2025 00:19:49.150] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[23Jan2025 00:19:49.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.4.2-neoforge Target: 1.20.1-1.5.1-neoforge
+[23Jan2025 00:19:49.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[23Jan2025 00:19:49.257] [main/INFO] [Moonlight/]: Initialized color sets in 57ms
+[23Jan2025 00:19:49.409] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[23Jan2025 00:19:49.410] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[23Jan2025 00:19:49.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[23Jan2025 00:19:49.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23Jan2025 00:19:49.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.12 Target: 9.1.16
+[23Jan2025 00:19:49.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jan2025 00:19:49.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.24
+[23Jan2025 00:19:49.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[23Jan2025 00:19:50.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[23Jan2025 00:19:50.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[23Jan2025 00:19:50.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.51 Target: null
+[23Jan2025 00:19:50.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[23Jan2025 00:19:50.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[23Jan2025 00:19:50.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23Jan2025 00:19:50.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.5 Target: 8.9.0
+[23Jan2025 00:19:50.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[23Jan2025 00:19:50.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[23Jan2025 00:19:50.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[23Jan2025 00:19:51.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[23Jan2025 00:19:53.647] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jan2025 00:19:56.974] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[23Jan2025 00:19:56.975] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[23Jan2025 00:19:59.384] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[23Jan2025 00:19:59.664] [Worker-Main-5/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.5.jar
+[23Jan2025 00:20:00.614] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[23Jan2025 00:20:00.716] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[23Jan2025 00:20:00.919] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[23Jan2025 00:20:01.102] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[23Jan2025 00:20:01.103] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[23Jan2025 00:20:01.148] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[23Jan2025 00:20:01.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[23Jan2025 00:20:01.170] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[23Jan2025 00:20:01.195] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[23Jan2025 00:20:01.196] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[23Jan2025 00:20:01.241] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[23Jan2025 00:20:01.242] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[23Jan2025 00:20:01.270] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[23Jan2025 00:20:01.270] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[23Jan2025 00:20:01.280] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[23Jan2025 00:20:01.280] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[23Jan2025 00:20:01.287] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[23Jan2025 00:20:01.287] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[23Jan2025 00:20:01.319] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[23Jan2025 00:20:01.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[23Jan2025 00:20:01.321] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[23Jan2025 00:20:01.321] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[23Jan2025 00:20:01.333] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[23Jan2025 00:20:01.333] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[23Jan2025 00:20:01.334] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[23Jan2025 00:20:01.351] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[23Jan2025 00:20:01.352] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[23Jan2025 00:20:01.355] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[23Jan2025 00:20:01.380] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[23Jan2025 00:20:01.380] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[23Jan2025 00:20:01.382] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[23Jan2025 00:20:01.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[23Jan2025 00:20:01.391] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[23Jan2025 00:20:01.406] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[23Jan2025 00:20:01.407] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[23Jan2025 00:20:01.424] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[23Jan2025 00:20:01.424] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[23Jan2025 00:20:01.427] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[23Jan2025 00:20:01.427] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[23Jan2025 00:20:01.464] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[23Jan2025 00:20:01.465] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[23Jan2025 00:20:01.471] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[23Jan2025 00:20:01.472] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[23Jan2025 00:20:01.480] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[23Jan2025 00:20:01.491] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[23Jan2025 00:20:01.491] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[23Jan2025 00:20:01.492] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[23Jan2025 00:20:01.505] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[23Jan2025 00:20:01.524] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[23Jan2025 00:20:01.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[23Jan2025 00:20:01.529] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[23Jan2025 00:20:01.542] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[23Jan2025 00:20:01.544] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[23Jan2025 00:20:01.854] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3948 advancements
+[23Jan2025 00:20:01.861] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[23Jan2025 00:20:01.870] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[23Jan2025 00:20:01.895] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[23Jan2025 00:20:01.904] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[23Jan2025 00:20:01.979] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[23Jan2025 00:20:04.877] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.435016ms
+[23Jan2025 00:20:05.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Jan2025 00:20:05.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jan2025 00:20:05.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jan2025 00:20:05.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jan2025 00:20:05.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jan2025 00:20:05.711] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Jan2025 00:20:05.815] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jan2025 00:20:05.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jan2025 00:20:05.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jan2025 00:20:05.817] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jan2025 00:20:06.001] [Server thread/INFO] [Framework/]: Loading server configs...
+[23Jan2025 00:20:06.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jan2025 00:20:15.795] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:20:15.981] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:20:16.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jan2025 00:20:17.859] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:20:20.515] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.544] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.594] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.653] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.688] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.718] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.745] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:20.764] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:21.000] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:21.423] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[23Jan2025 00:20:21.493] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:21.992] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Jan2025 00:20:22.492] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[23Jan2025 00:20:22.963] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5971 ms
+[23Jan2025 00:20:22.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.129s)! For help, type "help"
+[23Jan2025 00:20:23.053] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jan2025 00:20:23.062] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[23Jan2025 00:20:23.063] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[23Jan2025 00:20:32.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.98.237.17:45469] logged in with entity id 1000 at (-3085.1946150386607, 91.0, -2625.7779129491596)
+[23Jan2025 00:20:32.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[23Jan2025 00:20:35.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
+[23Jan2025 00:20:35.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rumo_fr3[/127.52.168.170:35793] logged in with entity id 1001 at (-3081.157955538176, 88.0, -2530.5421561563294)
+[23Jan2025 00:20:35.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 joined the game
+[23Jan2025 00:20:45.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hoaku[/127.195.188.223:46667] logged in with entity id 1339 at (-3079.699999988079, 88.0, -2532.8419764531154)
+[23Jan2025 00:20:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku joined the game
+[23Jan2025 00:24:16.068] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-176, -193], pos: BlockPos{x=-2815, y=-55, z=-3088}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[23Jan2025 00:24:16.068] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-176, -193], pos: BlockPos{x=-2814, y=-55, z=-3088}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[23Jan2025 00:24:16.068] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-176, -193], pos: BlockPos{x=-2813, y=-55, z=-3088}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[23Jan2025 00:24:16.069] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-177, -193], pos: BlockPos{x=-2817, y=-52, z=-3088}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[23Jan2025 00:28:13.598] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:28:13.615] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:28:13.760] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:28:13.766] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:28:45.599] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:28:45.605] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:30:26.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Ancient Civilization]
+[23Jan2025 00:30:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Ancient Civilization]
+[23Jan2025 00:30:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Ancient Civilization]
+[23Jan2025 00:33:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hoaku> WD
+[23Jan2025 00:34:25.214] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:34:25.237] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:34:26.287] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:34:26.302] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:34:31.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was turned to ice by Ice Dragon
+[23Jan2025 00:34:34.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID f977c0c8-f74a-4129-be9a-954cb93e4e22
+[23Jan2025 00:34:34.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2841 Y: -11 Z: -2946
+[23Jan2025 00:34:34.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was frozen by Ice Dragon
+[23Jan2025 00:35:12.883] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:35:12.898] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:35:22.495] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID e378b3c8-e882-4651-aea0-81da58924db3
+[23Jan2025 00:35:22.496] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2844 Y: -14 Z: -2950
+[23Jan2025 00:35:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was frozen by a dragon
+[23Jan2025 00:35:32.332] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:35:32.347] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:35:38.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Ice Dragon
+[23Jan2025 00:35:52.379] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:35:52.393] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:35:55.933] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:35:55.950] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:35:58.795] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hoaku with unique ID 54ea3389-8482-44c1-8de4-97ea8a982578
+[23Jan2025 00:35:58.795] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2828 Y: -11 Z: -2958
+[23Jan2025 00:35:58.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Ice Dragon
+[23Jan2025 00:36:02.290] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 06b710ee-2534-4ebb-8667-5b6838efac95
+[23Jan2025 00:36:02.291] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2847 Y: -12 Z: -2951
+[23Jan2025 00:36:02.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Ice Dragon
+[23Jan2025 00:36:03.600] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:36:03.626] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:36:09.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was frozen by a dragon
+[23Jan2025 00:36:28.641] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:36:28.643] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:38:07.083] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:38:07.099] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:38:07.581] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:38:07.599] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:38:13.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was frozen by Ice Dragon
+[23Jan2025 00:38:18.497] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 9f77b6c1-8ccc-48fc-8aa3-b7b9a8276882
+[23Jan2025 00:38:18.498] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2849 Y: -12 Z: -2966
+[23Jan2025 00:38:18.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was frozen by Ice Dragon
+[23Jan2025 00:38:28.081] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:38:28.096] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:38:34.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was frozen by Ice Dragon
+[23Jan2025 00:38:35.735] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:38:35.738] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:38:39.079] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:38:39.096] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:38:41.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku walked into a cactus whilst trying to escape Ice Dragon
+[23Jan2025 00:38:45.052] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 0b887300-177a-46f0-9b6f-93cadbed4ff0
+[23Jan2025 00:38:45.053] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2845 Y: -12 Z: -2965
+[23Jan2025 00:38:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was frozen by Ice Dragon
+[23Jan2025 00:38:51.830] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:38:51.843] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:38:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Ice Dragon
+[23Jan2025 00:39:14.130] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:39:14.146] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:39:20.992] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 43eb2376-98e1-4d39-9ac2-12bb658e51d3
+[23Jan2025 00:39:20.993] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2828 Y: -11 Z: -2976
+[23Jan2025 00:39:20.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was frozen by Ice Dragon
+[23Jan2025 00:39:26.429] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:39:26.445] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:39:35.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was frozen by Ice Dragon
+[23Jan2025 00:39:45.582] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:39:45.597] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:39:49.632] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:39:49.645] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:39:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was turned to ice by a dragon
+[23Jan2025 00:39:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Ice Dragon
+[23Jan2025 00:40:00.991] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:40:00.996] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:40:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was turned to ice by Ice Dragon
+[23Jan2025 00:40:35.381] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:40:35.393] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:40:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was turned to ice by a dragon
+[23Jan2025 00:40:46.680] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:40:46.694] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:40:46.730] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:40:46.744] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:40:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Ice Dragon
+[23Jan2025 00:40:57.999] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID e79dbff6-2fc6-465b-aff7-76651bcd1507
+[23Jan2025 00:40:57.999] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2843 Y: -13 Z: -2976
+[23Jan2025 00:40:58.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Ice Dragon
+[23Jan2025 00:41:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Mother of Dragons]
+[23Jan2025 00:41:28.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Mother of Dragons]
+[23Jan2025 00:51:19.634] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:51:19.646] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:51:49.032] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:51:49.041] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:52:17.339] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:52:17.340] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:52:26.281] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:52:26.289] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:53:00.242] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:53:00.244] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:53:00.248] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:53:00.248] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:53:03.787] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:53:03.796] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:53:09.144] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID 799b94aa-44a2-49c7-affa-ec1a2b57ee30
+[23Jan2025 00:53:09.145] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2853 Y: -29 Z: -2935
+[23Jan2025 00:53:09.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was struck by lightning
+[23Jan2025 00:53:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was slain by Warden
+[23Jan2025 00:53:12.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was struck by lightning
+[23Jan2025 00:53:24.437] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:53:24.441] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:53:30.035] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:53:30.044] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:53:30.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku was struck by lightning
+[23Jan2025 00:53:33.481] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:53:33.492] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:53:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Warden
+[23Jan2025 00:53:39.638] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID f7e238db-ade6-4c34-87e5-8deddf13a233
+[23Jan2025 00:53:39.639] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2854 Y: -30 Z: -2938
+[23Jan2025 00:53:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was slain by Warden
+[23Jan2025 00:53:44.430] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 00:53:44.439] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:53:49.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku tried to swim in lava
+[23Jan2025 00:53:49.595] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 00:53:51.436] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:53:51.446] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:53:57.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Warden
+[23Jan2025 00:59:01.288] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 00:59:01.297] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 00:59:16.585] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 00:59:16.594] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 00:59:22.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was obliterated by a sonically-charged shriek
+[23Jan2025 00:59:26.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID fde2b16c-e90b-4acb-81f0-ec266aeca2c9
+[23Jan2025 00:59:26.808] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2890 Y: -25 Z: -2914
+[23Jan2025 00:59:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was obliterated by a sonically-charged shriek
+[23Jan2025 01:00:05.794] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 01:00:05.796] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 01:00:11.583] [Server thread/WARN] [tombstone/]: The death event of the player Rumo_fr3 was canceled by another mod
+[23Jan2025 01:00:11.594] [Server thread/INFO] [tombstone/]: The player Rumo_fr3 has successfully been saved
+[23Jan2025 01:00:17.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku fell from a high place
+[23Jan2025 01:00:19.390] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Rumo_fr3 with unique ID f02d9926-01ad-40a1-a585-f13a538fda71
+[23Jan2025 01:00:19.391] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2893 Y: -25 Z: -2930
+[23Jan2025 01:00:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 was obliterated by a sonically-charged shriek
+[23Jan2025 01:05:56.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has reached the goal [Bone Crusher]
+[23Jan2025 01:06:37.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Who is Cutting Onions?]
+[23Jan2025 01:09:44.541] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 01:09:44.553] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 01:11:19.382] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 01:11:19.396] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 01:12:20.147] [Server thread/WARN] [tombstone/]: The death event of the player hoaku was canceled by another mod
+[23Jan2025 01:12:20.165] [Server thread/INFO] [tombstone/]: The player hoaku has successfully been saved
+[23Jan2025 01:12:47.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Alex's Caves]
+[23Jan2025 01:13:32.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Once Upon a Cave]
+[23Jan2025 01:13:46.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hoaku has made the advancement [Once Upon a Cave]
+[23Jan2025 01:19:10.181] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 01:19:10.198] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 01:19:17.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was slain by Warden
+[23Jan2025 01:20:41.329] [Server thread/WARN] [tombstone/]: The death event of the player Thecno662 was canceled by another mod
+[23Jan2025 01:20:41.349] [Server thread/INFO] [tombstone/]: The player Thecno662 has successfully been saved
+[23Jan2025 01:20:47.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 was obliterated by a sonically-charged shriek
+[23Jan2025 01:23:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Gave 1 [Simple Grave] to Thecno662]
+[23Jan2025 01:23:45.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has reached the goal [A Small Cemetery]

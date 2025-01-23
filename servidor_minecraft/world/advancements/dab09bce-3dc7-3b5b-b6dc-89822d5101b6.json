@@ -83,7 +83,9 @@
       "minecraft:jungle": "2025-01-21 01:34:47 +0000",
       "minecraft:ocean": "2025-01-22 19:37:31 +0000",
       "minecraft:snowy_beach": "2025-01-22 23:56:53 +0000",
+      "minecraft:frozen_peaks": "2025-01-23 00:25:50 +0000",
       "minecraft:deep_dark": "2025-01-21 01:53:02 +0000",
+      "minecraft:meadow": "2025-01-23 00:23:14 +0000",
       "minecraft:savanna": "2025-01-21 00:51:46 +0000",
       "minecraft:plains": "2025-01-21 00:51:34 +0000"
     },
@@ -2722,7 +2724,8 @@
   "the_pillager_legion_:achiv_get_legion_armor": {
     "criteria": {
       "achiv_get_legion_armor_3": "2025-01-21 01:45:10 +0000",
-      "achiv_get_legion_armor_0": "2025-01-21 01:39:21 +0000"
+      "achiv_get_legion_armor_0": "2025-01-21 01:39:21 +0000",
+      "achiv_get_legion_armor_1": "2025-01-23 00:24:05 +0000"
     },
     "done": false
   },
@@ -5470,33 +5473,75 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/silver_saber": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-01-22 23:40:55 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/silver_javelin": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-01-22 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-22 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-22 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-01-22 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-22 23:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 23:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-22 23:53:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-01-22 23:55:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-22 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/silver_saber": {
     "criteria": {
       "has_silver_ingot": "2025-01-22 23:58:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
+  "spartanweaponry:recipes/silver_javelin": {
     "criteria": {
-      "has_item": "2025-01-23 00:17:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-23 00:02:47 +0000"
+      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
     },
     "done": true
   },
@@ -5512,51 +5557,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
-    "criteria": {
-      "has_item": "2025-01-22 23:59:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-01-23 00:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-01-23 00:09:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-01-23 00:00:17 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
-    "criteria": {
-      "has_item": "2025-01-22 23:59:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-22 23:59:05 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/silver_glaive": {
     "criteria": {
       "has_silver_ingot": "2025-01-22 23:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-23 00:09:57 +0000"
     },
     "done": true
   },
@@ -5566,21 +5569,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-01-22 23:40:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/silver_dagger": {
     "criteria": {
       "has_silver_ingot": "2025-01-22 23:58:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-23 00:09:57 +0000"
     },
     "done": true
   },
@@ -5596,33 +5587,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-01-23 00:17:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-01-22 23:40:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/silver_tomahawk": {
     "criteria": {
       "has_silver_ingot": "2025-01-22 23:58:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-23 00:00:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
-    "criteria": {
-      "has_dragonscales_sapphire": "2025-01-22 23:59:05 +0000"
     },
     "done": true
   },
@@ -5668,18 +5635,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-01-22 23:59:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-01-23 00:09:57 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/silver_boomerang": {
     "criteria": {
       "has_silver_ingot": "2025-01-22 23:58:01 +0000"
@@ -5698,18 +5653,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-22 23:53:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-22 23:40:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-01-22 23:58:01 +0000"
@@ -5722,29 +5665,71 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "spartanweaponry:recipes/silver_lance": {
     "criteria": {
-      "has_planks": "2025-01-23 00:09:57 +0000"
+      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_helmet": {
+  "spartanweaponry:recipes/silver_rapier": {
     "criteria": {
-      "has_item": "2025-01-23 00:17:22 +0000"
+      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+  "spartanweaponry:recipes/silver_katana": {
     "criteria": {
-      "has_sapphire_gem": "2025-01-22 23:55:54 +0000"
+      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "spartanweaponry:recipes/silver_pike": {
     "criteria": {
-      "has_logs": "2025-01-22 23:53:08 +0000"
+      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-01-22 23:59:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-01-22 23:59:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-22 23:59:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-01-22 23:59:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-01-22 23:59:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-23 00:00:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-23 00:00:17 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
@@ -5752,33 +5737,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_silver_nugget": "2025-01-22 23:56:22 +0000"
+      "has_snowball": "2025-01-23 00:02:47 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/silver_lance": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
+      "has_snowball": "2025-01-23 00:02:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_dragonscales_red": "2025-01-23 00:17:22 +0000"
+      "has_planks": "2025-01-23 00:09:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_boots": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_item": "2025-01-23 00:17:22 +0000"
+      "has_planks": "2025-01-23 00:09:57 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/silver_rapier": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
+      "has_planks": "2025-01-23 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-23 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-23 00:09:57 +0000"
     },
     "done": true
   },
@@ -5800,39 +5797,165 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-01-22 23:40:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/silver_katana": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/silver_pike": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-22 23:58:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-22 23:50:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-23 00:09:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
-      "has_snowball": "2025-01-23 00:02:47 +0000"
+      "has_item": "2025-01-23 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-23 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-23 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-23 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-23 00:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-01-23 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-01-23 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-23 00:33:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-23 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-23 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-23 00:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-23 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-01-23 00:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 00:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-23 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-01-23 01:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-23 01:08:23 +0000"
     },
     "done": true
   },
